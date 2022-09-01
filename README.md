@@ -2,24 +2,25 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI AI, Chef
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+This project aims to create an AI model that will create new recipes based on the user's preferences. The user can tell what type of food they want, a specific type of meal, the food of a certain culture, or just some ingredients that they want to work with. AI AI, Chef will then create new recipes from scratch with instructions and
+present these to the user.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+* Chef's block, stuck creatively in the kitchen?
+* Want to try something new, but don't know what?
+* Do you have some random ingredients that you don't know how to combine?
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+AI AI Chef will solve all of the above mentioned problems using a novel method for creating brand new recipes. Currently, these problems are mostly solved by googling recipes, or maybe watching some YouTube videos for inspiration. That's no fun, though! Something more fun would be to try something _completely_ new, and seeing what
+the chef has planned for dinner! Curiosity is the main motivation in this project, and seeing if the problems above could be solved using some AI methods, and to see if the recipes that are generated are not only edible, but actually taste good.
 
+Since there is a risk of AI AI Chef creating something horrible, not only bad tasting, but even lethal, it would be interesting to try to tackle the problem of creating safe recipes. Creating recipes that are safe for human consumption, but that are completely new, could translate into other applications where novel mixtures of various chemicals/substances/ingredients would benefit from the findings in this project.
 
 ## How is it used?
 
